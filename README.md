@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Ramadan-Ahmed](https://github.com/Ahmed-Ramadan-Ahmed)
 
-- 📝 I regularly write articles on [DSA, CP](DSA, CP)
+- 📝 I regularly write articles on (DSA, CP)
 
-- 💬 Ask me about **Programming, Database, DSA, Problem Solving**
+- 💬 Ask me about **Programming, Database, DSA, Problem Solving, Backend Development**
 
 - 📫 How to reach me **aramadan442000@gmail.com**
 
